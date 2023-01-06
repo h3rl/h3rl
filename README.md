@@ -6,6 +6,7 @@ I am studying electrical engineering at UIS with a passion for creating embedded
 
 -   Coding since 2018
 -   C, C++, C#, Python, html
+-   [gamehacking](https://github.com/h3rl/escocp)
 
 ### Education
 
