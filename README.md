@@ -1,6 +1,6 @@
 ## Hello!
 
-I am studying electrical engineering at UIS with a passion for creating embedded systems. I enjoy working on projects that involve both software and hardware development and am always looking for ways to improve my skills. I want to becomme an Embedded Software Engineer
+I am studying Cybernetics at UIS with a passion for both electronics and software. I enjoy working on projects that involve both software and hardware development and am always looking for ways to improve my skills.
 
 ### Experience
 
