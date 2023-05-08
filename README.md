@@ -3,7 +3,7 @@ I am studying Cybernetics at UIS with a passion for both electronics and softwar
 
 ### Featured Projects
 -   [Audio visualizer](https://github.com/h3rl/spektrum)
--   [Gamehacking](https://github.com/h3rl/escocp)
+-   [Gamehack](https://github.com/h3rl/escocp)
 
 ### Experience
 -   Coding since 2018
