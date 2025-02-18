@@ -9,8 +9,4 @@ I am have passion for both electronics and software. I enjoy working on projects
 -   Coding since 2018
 -   C, C++, C#, Python, html
 
-### Education
--   Master in Cybernetics
-
-### Socials
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/h3rl)](https://github.com/h3rl)
+The rest is a mystery
